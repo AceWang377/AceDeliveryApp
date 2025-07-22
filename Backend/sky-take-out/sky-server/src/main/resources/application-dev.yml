@@ -5,21 +5,21 @@ sky:
     port: 3306
     database: sky_take_out
     username: root
-    password: aqj710310
+    password: "****"
   wechat:
-    appid: wx885d9b62b27635b6
-    secret: 34bacae51baef43e98ef1dde650d7b1c
+    appid: "****"
+    secret: "****"
 
 
 
   redis:
     host: localhost
     port: 6379
-    password: aqj710310
+    password: "****"
     database: 10
 
   shop:
     address: 北京市海淀区上地10街10号
   baidu:
-    ak: aLHwtPJ9WBHdV8YWfBtMgpr7HWsWhLrC
+    ak: "****"
 
